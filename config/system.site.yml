@@ -1,0 +1,14 @@
+uuid: 28a65078-bbd7-46c9-8e03-95211eae0619
+name: frockwithus
+mail: dbrabon@sandiego.gov
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
